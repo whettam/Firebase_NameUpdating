@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369335006594",
+    "project_id": "fir-f8933",
+    "storage_bucket": "fir-f8933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369335006594:android:2db567b7a8beb475b90b9b",
+        "android_client_info": {
+          "package_name": "edu.otc.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV4rYq_cFBSel8Ag0UHti07cEGq29sBrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
